@@ -1,9 +1,3 @@
-
-Atualmente, seu README está bom, mas pode ser mais chamativo e estruturado. Aqui está uma versão otimizada:
-
-markdown
-Copiar
-Editar
 # 👋 Hi, I'm Luca F. Sasso 🚀  
 **Aspiring Data Analyst | SQL | Python | Power BI | Metabase**  
 
